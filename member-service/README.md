@@ -187,8 +187,8 @@ sequenceDiagram
 
 ---
 ## UI Section
-<img width="953" height="436" alt="image" src="https://github.com/user-attachments/assets/eae2c821-bff9-4f55-9579-0384996b67d3" />
-
+- [Dashboard](dashboard.png)
+- [Member Management](member_management.png)
 ---
 ##  Run Locally
 ```bash
