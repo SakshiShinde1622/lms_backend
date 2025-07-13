@@ -165,9 +165,8 @@ sequenceDiagram
 ```
 ---
 ## UI Section
-<img width="941" height="440" alt="image" src="https://github.com/user-attachments/assets/dd8d1bcb-fde1-4a49-83b2-4ac8d82de926" />
-
-
+- [Dashboard](dashboard/png)
+- [Notification](notification.png)
 
 ##  Run Locally
 ```bash
