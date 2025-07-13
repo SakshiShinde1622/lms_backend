@@ -174,7 +174,8 @@ This service may call:
 - **Book Service**: to confirm and update available copies
 ---
 ## UI Section
-<img width="943" height="445" alt="image" src="https://github.com/user-attachments/assets/84ac199e-3c84-493a-895b-c25e7231ccae" />
+- [Dashboard](dashboard.png)
+- [Transaction](transaction.png)
 
 ---
 
