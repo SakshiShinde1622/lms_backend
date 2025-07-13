@@ -173,8 +173,9 @@ sequenceDiagram
 
 ---
 ## UI Section
-<img width="952" height="437" alt="image" src="https://github.com/user-attachments/assets/abc0500e-c55e-45de-b6ca-3d307343ad08" />
-
+- [Dashboard](dashboard.png)
+- [Fine](fine.png)
+  
 ---
 
 ##  Run Locally
