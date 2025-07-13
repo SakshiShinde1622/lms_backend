@@ -153,8 +153,8 @@ sequenceDiagram
 ```
 ---
 ##  UI Section
-<img width="950" height="437" alt="image" src="https://github.com/user-attachments/assets/642bb0b6-9f74-4167-97e2-0c311364b83d" />
-
+- [Dashboard](dashboard.png)
+- [Book Management](book_management.png)
 ---
 ##  Run Locally
 ```bash
